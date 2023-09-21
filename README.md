@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikos</a></h1>
 <h3 align="center">A passionate Data Scientist and Analyst from Heraklion Crete, Greece 🇬🇷</h3>
+<h5 align="center">Also available at https://github.com/fanourakis </h5>
 <br>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
