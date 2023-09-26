@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikos</a></h1>
-<h3 align="center">A passionate Data Scientist and Analyst from Heraklion Crete, Greece 🇬🇷</h3>
+<h3 align="center">A passionate Data Scientist and Analyst from Heraklion Crete, Greece</h3>
 <h5 align="center">Also available at https://github.com/fanourakis </h5>
 <br>
 
