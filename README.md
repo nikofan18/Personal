@@ -6,13 +6,13 @@
 
 - 🔭 I’m a Ph.D Candidate from the Computer Science Department (CSD) of University of Crete
 
-- 🔭 I'm a Reasearch Assistant - Data Scientist & Analyst at Information Systems Laboratory at FORTH-ICS
+- 🔭 I'm a Reasearch Assistant - <b>Data Scientist & Analyst</b> at Information Systems Laboratory at FORTH-ICS
 
 - 🌱 I’m Working on Entity Alignment using Knowledge Graph Embeddings
 
 - 🌱 I’m also Working on Fairness, Diversity and Explainability in Machine Learning
   
-- 🔥 I'm also Interested in Big Data Engineering
+- 🔥 I'm also Interested in <b>Big Data Engineering</b>
 
 - 📫 How to reach me **nikosfanourakis5@gmail.com**
 
